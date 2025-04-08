@@ -2,8 +2,8 @@
 Packages sniffer, sites URL, login info and more!
 
 <div align="center">
-<a href="https://github.com/thepseudonym/pcktSniffy/" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=thepseudonym&message=pcktSniffy&color=purple&logo=github" alt="thepseudonym - pcktSniffy">
+<a href="https://github.com/29fulcrum/pcktSniffy/" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=29fulcrum&message=pcktSniffy&color=purple&logo=github" alt="29fulcrum - pcktSniffy">
 </a>
   <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
@@ -28,6 +28,6 @@ Packages sniffer, sites URL, login info and more!
 2. [scanDetective](https://github.com/thepseudonym/scanDetective/)
 
 # License
-<a href="https://github.com/thepseudonym/pcktSniffy/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/29fulcrum/pcktSniffy/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE"> 
 </a>
